@@ -1,0 +1,41 @@
+_repo: The-Jews-of-BarnowStories_34617
+_version: 0.1.0
+alternative_title: Die Juden von Barnow. English
+contributor:
+  translator:
+    agent_name: Macdowall, M. W.
+    alias: MacDowall, M. W.
+    gutenberg_agent_id: '37124'
+    url: http://www.gutenberg.org/2009/agents/37124
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franzos, Karl Emil
+    aliases:
+    - Franzos, K. E. (Karl Emil)
+    - Franzos, Emil
+    birthdate: 1848
+    deathdate: 1904
+    gutenberg_agent_id: '37123'
+    url: http://www.gutenberg.org/2009/agents/37123
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2010-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Fiction'
+- !lcsh 'Jewish fiction'
+- !lcc 'PT'
+tableOfContents: The Shylock of Barnow -- Chane -- Two saviours of the people -- "The
+  child of atonement" -- Esterka Regina -- "Baron Schmule" -- The picture of Christ
+  -- Nameless graves.
+title: 'The Jews of Barnow: Stories'
+url: http://www.gutenberg.org/ebooks/34617
